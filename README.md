@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Khanyisile Danster  
 
-<!--
-**KhanyiDanster/KhanyiDanster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Development Graduate** | 💻 Passionate about building scalable solutions | 🌍 Based in Cape Town, South Africa  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+Motivated and detail-oriented software developer with a strong foundation in:  
+- Object-Oriented Programming  
+- Databases (SQL-based)  
+- Client-server architecture  
+- API integration  
+
+I enjoy working on collaborative projects, mentoring peers, and applying agile practices to solve real-world coding challenges. Currently seeking **internship or graduate opportunities** to grow as a software engineer.  
